@@ -1,6 +1,6 @@
 # 2D NearField-mmWaveSAR-Imaging
 Nearfield mmWave imaging of a remote object using SAR method over K-band frequency.
-Nearfield SAR CST mode is created for data collection and then for signal processing
+2D Nearfield SAR CST model is created for data collection, signal reflection. Further these data are used for image reconstruction.
 Rawdata: Collected from CST MW Studio
 Code: MATLAB
 
